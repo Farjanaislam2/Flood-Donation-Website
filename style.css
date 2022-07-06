@@ -1,0 +1,156 @@
+body {
+    font-family: 'Gentium Book Plus', serif;
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    margin: 0%;
+    padding: 0%;
+}
+
+.donate {
+    text-align: center;
+    margin: 30px;
+    padding: 10%;
+    color: black;
+    font-size: 20px;
+
+}
+
+.button {
+    text-decoration: none;
+    font-weight: 700px;
+    background-color: orangered;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 5px;
+}
+
+
+.container {
+    background-image: url(images/flood/banner.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+}
+
+#banner {
+    color: white;
+}
+
+.middile-part {
+    text-align: center;
+
+}
+
+.donate-amount {
+    display: flex;
+    padding-left: 15%;
+
+}
+
+.amount {
+    background-color: rgba(128, 128, 128, 0.096);
+    margin-left: 2%;
+    margin-right: 2%;
+    margin-bottom: 100px;
+    border-radius: 5px;
+    padding-left: 30px;
+    padding-right: 40px;
+}
+
+#background-color {
+    background-color: rgba(220, 20, 60, 0.164);
+    border: 2px solid red;
+
+}
+
+#quantity {
+    width: 80%;
+    color: gray;
+    margin-bottom: 15%;
+
+
+}
+
+.donate-plan {
+    text-align: center;
+    margin: 30px;
+    color: black;
+
+}
+
+.input-amount {
+    text-align: center;
+
+}
+
+#input-field {
+    width: 30%;
+    margin-bottom: 20px;
+
+}
+
+#food {
+    background-color: rgba(0, 255, 255, 0.151);
+}
+
+#shelter {
+    background-color: rgba(137, 43, 226, 0.178);
+}
+
+#education {
+    background-color: rgba(220, 20, 60, 0.349);
+    margin-right: 10%;
+}
+
+.help-family {
+    width: 40%;
+    margin-left: 2%;
+    margin-right: 2%;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 5px;
+
+
+}
+
+.half-width {
+    width: 50%;
+    margin: 5%;
+
+}
+
+.half-width img {
+    width: 80%;
+    border-radius: 5px;
+}
+
+.contribute {
+    padding-bottom: 2%;
+}
+
+#updates {
+    background-color: rgba(220, 20, 60, 0.171);
+    height: 90px;
+    margin-left: 15%;
+    margin-right: 15%;
+    padding-top: 55px;
+
+}
+
+#email-field {
+    height: 30px;
+    width: 40%;
+}
+
+footer {
+    text-align: center;
+    color: white;
+    background-color: black;
+    padding: 10px;
+}
+
+.footer-part {
+    color: orangered;
+}
